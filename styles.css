@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+
+.container{
+	display:flex;
+	 padding: 20px; /* Set the padding as needed */
+      border: 4px solid #333;
+	  border-radius:30px;
+	width:400px;
+	background-color:gray;
+	
+	
+}
+ .color-block {
+      width: 100px; /* Set the width as needed */
+      height: 100px; /* Set the height as needed */
+      border-radius:50%;
+	 
+	 /* Set the margin for spacing */
+    }
+
+    .red { background-color: red; }
+    .green { background-color: green; }
+    .yellow { background-color: yellow; }
+
